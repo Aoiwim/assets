@@ -1,0 +1,35 @@
+{
+  "name": "Fox Club #0",
+  "symbol": "RC",
+  "description": "Why am I fox",
+  "seller_fee_basis_points": 3300,
+  "image": "https://raw.githubusercontent.com/Aoiwim/images/main/QmQBhcgpUaBwxAexzPTHg9kkG4JdM3P1ZGLsJWLGXrriEc.png",
+  "external_url": "",
+  "edition": 0,
+  "attributes": [
+   
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8nZTRqgFSE7pLzjVw6YYFqcBazAaGndZjeZXD9oErqLB",
+        "share": 60
+      },
+      {
+        "address": "J2nw4shtdNkXH1SXyGTrcub7uKKkirLe4MUdbUCH2CEt",
+        "share": 30
+      },
+      {
+        "address": "6AxsFfQgWvNKbQ3HX9TezUvcJXnAev3wYjnZNUvNXgj8",
+        "share": 10
+      }
+    ]
+  }
+}
